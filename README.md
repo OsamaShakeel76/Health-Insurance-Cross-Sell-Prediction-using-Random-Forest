@@ -64,5 +64,3 @@ These metrics provide a balanced view of predictive performance, especially for 
 - **Matplotlib / Seaborn**
 
 
-## Repository Structure
-

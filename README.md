@@ -63,4 +63,8 @@ These metrics provide a balanced view of predictive performance, especially for 
 - **Scikit-learn**
 - **Matplotlib / Seaborn**
 
+## Author
+**Osama Shakeel**
+Senior AI Engineer
+
 

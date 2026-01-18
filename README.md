@@ -1,9 +1,9 @@
 # Health Insurance Cross-Sell Prediction using Random Forest
 
 ## Overview
-This project focuses on predicting whether an existing customer is likely to purchase **health insurance** using machine learning techniques. The solution is built using a **Random Forest Classifier**, a robust ensemble algorithm well-suited for handling complex, non-linear relationships in structured insurance data.
+This project focuses on predicting whether an existing customer is likely to purchase health insurance using machine learning techniques. The solution is built using a Random Forest Classifier, a robust ensemble algorithm well-suited for handling complex, non-linear relationships in structured insurance data.
 
-The project is designed to reflect a **real-world insurance analytics use case**, supporting data-driven decision-making for marketing, underwriting, and customer targeting teams.
+The project is designed to reflect a real-world insurance analytics use case, supporting data-driven decision-making for marketing, underwriting, and customer targeting teams.
 
 ## Business Problem
 Insurance companies often struggle to identify which existing customers are most likely to respond positively to cross-sell campaigns. Inefficient targeting leads to:
